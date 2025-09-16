@@ -1,0 +1,11 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Apple:128,0,0::
+Apricot:0,128,0::
+Avocado:128,128,0::
+Banana:0,0,128::
+Blueberry:128,0,128::
+Cactus Fruit:0,128,128::
+Kiwi:128,128,128::
+Lime:64,0,0::
+Mango:192,0,0::
