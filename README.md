@@ -1,6 +1,6 @@
-#Fruit Image Annotation Project
+# Fruit Image Annotation Project
 
-##Project Overview
+## Project Overview
 This project demonstrates my skills in image annotation for computer vision.  
 I used **CVAT** (Computer Vision Annotation Tool) to annotate a fruit dataset by drawing bounding boxes around different fruit categories and labeling them appropriately.  
 
